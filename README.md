@@ -1,7 +1,8 @@
 Using SD-198 dataset https://huggingface.co/datasets/resyhgerwshshgdfghsdfgh/SD-198
 
 Start search_gui.py
-![image](https://github.com/user-attachments/assets/8b4726c2-ba2c-4a98-b050-270b9756516f)
+![image](https://github.com/user-attachments/assets/c478373e-654a-47f7-995e-1c3d17fb1349)
+
 
 
 Select query_image & Check the results
