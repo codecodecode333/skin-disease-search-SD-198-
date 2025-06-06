@@ -1,5 +1,7 @@
 Using SD-198 dataset https://huggingface.co/datasets/resyhgerwshshgdfghsdfgh/SD-198
 
+CNN+ORB+SIFT 
+
 Start search_gui.py
 
 ![image](https://github.com/user-attachments/assets/c478373e-654a-47f7-995e-1c3d17fb1349)
