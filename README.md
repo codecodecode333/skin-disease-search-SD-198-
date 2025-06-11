@@ -1,4 +1,5 @@
 🧪
+
 A self-diagnosis system for skin diseases using image classification and similarity search, built with OpenCV and AI.  
 This project combines CNN (ResNet50) with local features (ORB, SIFT) to improve search precision for visually similar skin diseases.
 
