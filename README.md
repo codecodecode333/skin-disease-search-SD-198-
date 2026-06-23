@@ -217,3 +217,9 @@ Grad-CAM 등을 활용하여 모델이 피부 이미지의 어떤 영역을 중�
 - CNN + Local Feature Fusion Architecture
 - Cosine Similarity-Based Retrieval
 - GUI-Based Search System
+
+---
+
+## Author
+
+Kim Minjae
